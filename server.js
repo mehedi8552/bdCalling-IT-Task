@@ -13,6 +13,10 @@ app.use("/api/admin", adminRoutes);
 app.use("/api/trainee", traineeRoutes);
 app.use("/api/trainer", trainerRoutes);
 
+app.get("/", (req, res) => {
+  res.send("Hello World!");
+});
+
 mongoose
   .connect(process.env.MONGO_URI)
   .then(() =>
