@@ -68,7 +68,7 @@ By implementing this system, gyms can optimize their operations, improve
 customer satisfaction, and increase overall efficiency.
 
 **Relation Diagram**
-
+![image](https://github.com/user-attachments/assets/ef56618d-64ac-4580-aa42-ef21bc3d0c8c)
 -   **Technology Stack:**
 
 1.  Express.js,
