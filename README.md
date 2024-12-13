@@ -93,48 +93,44 @@ POST {{VERSELBASE}}api/auth/register
 
 POST {{VERSELBASE}}api/auth/login
 
-![](./src/image/image2.png){width="6.5in" height="2.295138888888889in"}
+![](./src/image/image2.png)
 
 **Admin**
 
 POST {{VERSELBASE}}/api/auth /api/admin/schedule
 
-![](./src/image/image3.png){width="6.5in" height="1.961111111111111in"}
+![](./src/image/image3.png)
 
 POST {{VERSELBASE}}api/admin/create-trainer
 
-![](./src/image/image4.png){width="6.5in" height="2.0944444444444446in"}
+![](./src/image/image4.png)
 
 PUT {{VERSELBASE}}api/admin/findby-trainer-id/:id
 
-![](./src/image/image5.png){width="6.5in" height="2.0875in"}
+![](./src/image/image5.png)
 
 GET {{VERSELBASE}}api/admin/find-all-trainer
 
-![](./src/image/image6.png){width="5.917492344706911in"
-height="5.677876202974629in"}
+![](./src/image/image6.png)
 
 DEL {{VERSELBASE}}api/admin/remove-trainer-by-id/:id
 
-![](./src/image/image7.png){width="6.5in" height="6.131944444444445in"}
+![](./src/image/image7.png)
 
 **Trainee**
 
 POST {{VERSELBASE}}api/trainee/book-class/:Id
 
-![](./src/image/image8.png){width="6.7104155730533686in"
-height="2.240631014873141in"}
-
+![](./src/image/image8.png)
 POST {{VERSELBASE}}api/trainee/profile
 
-![](./src/image/image9.png){width="6.5in" height="1.9694444444444446in"}
+![](./src/image/image9.png)
 
 **Trainer**
 
 GET {{VERSELBASE}}api/trainer/schedules
 
-![](./image10.png){width="6.480686789151356in"
-height="3.5008213035870517in"}
+![](./image10.png)
 
 **Database Schema**
 
