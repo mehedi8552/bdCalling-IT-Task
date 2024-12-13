@@ -122,6 +122,7 @@ DEL {{VERSELBASE}}api/admin/remove-trainer-by-id/:id
 POST {{VERSELBASE}}api/trainee/book-class/:Id
 
 ![](./src/image/image8.png)
+
 POST {{VERSELBASE}}api/trainee/profile
 
 ![](./src/image/image9.png)
@@ -130,7 +131,7 @@ POST {{VERSELBASE}}api/trainee/profile
 
 GET {{VERSELBASE}}api/trainer/schedules
 
-![](./image10.png)
+![](./src/image/image10.png)
 
 **Database Schema**
 
