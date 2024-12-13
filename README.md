@@ -247,7 +247,7 @@ Additional Tips:
 
 5.  Create a .env file and past it on there
 
-**MONGO_URI**=mongodb+srv://\<username\>:\<password\>@cluster0.derptwk.mongodb.net/yourDBName
+**MONGO_URI**=mongodb+srv://user8552:user8552@cluster0.derptwk.mongodb.net/Gym-Management
 
 **JWT_SECRET**= mdmehedi#123
 
@@ -256,9 +256,6 @@ Additional Tips:
 -   **Live Hosting Link:**
 
 > Host Link: <https://bd-calling-it-task.vercel.app/>
->
-> Host Dashboard:
-> <https://vercel.com/mehedi8552s-projects/file-upload-and-read-project/FaKCZCEAxycFEJevr5P9DQ37aNd6>
 >
 > **4. Testing Instructions:**
 
