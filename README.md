@@ -68,7 +68,7 @@ By implementing this system, gyms can optimize their operations, improve
 customer satisfaction, and increase overall efficiency.
 
 **Relation Diagram**
-![image](https://github.com/user-attachments/assets/ef56618d-64ac-4580-aa42-ef21bc3d0c8c)
+![](./src/image/ERD.png)
 -   **Technology Stack:**
 
 1.  Express.js,
@@ -89,45 +89,45 @@ customer satisfaction, and increase overall efficiency.
 
 POST {{VERSELBASE}}api/auth/register
 
-![](./image1.png){width="6.5in" height="2.2368055555555557in"}
+![](./src/image/image1.png)
 
 POST {{VERSELBASE}}api/auth/login
 
-![](./image2.png){width="6.5in" height="2.295138888888889in"}
+![](./src/image/image2.png){width="6.5in" height="2.295138888888889in"}
 
 **Admin**
 
 POST {{VERSELBASE}}/api/auth /api/admin/schedule
 
-![](./image3.png){width="6.5in" height="1.961111111111111in"}
+![](./src/image/image3.png){width="6.5in" height="1.961111111111111in"}
 
 POST {{VERSELBASE}}api/admin/create-trainer
 
-![](./image4.png){width="6.5in" height="2.0944444444444446in"}
+![](./src/image/image4.png){width="6.5in" height="2.0944444444444446in"}
 
 PUT {{VERSELBASE}}api/admin/findby-trainer-id/:id
 
-![](./image5.png){width="6.5in" height="2.0875in"}
+![](./src/image/image5.png){width="6.5in" height="2.0875in"}
 
 GET {{VERSELBASE}}api/admin/find-all-trainer
 
-![](./image6.png){width="5.917492344706911in"
+![](./src/image/image6.png){width="5.917492344706911in"
 height="5.677876202974629in"}
 
 DEL {{VERSELBASE}}api/admin/remove-trainer-by-id/:id
 
-![](./image7.png){width="6.5in" height="6.131944444444445in"}
+![](./src/image/image7.png){width="6.5in" height="6.131944444444445in"}
 
 **Trainee**
 
 POST {{VERSELBASE}}api/trainee/book-class/:Id
 
-![](./image8.png){width="6.7104155730533686in"
+![](./src/image/image8.png){width="6.7104155730533686in"
 height="2.240631014873141in"}
 
 POST {{VERSELBASE}}api/trainee/profile
 
-![](./image9.png){width="6.5in" height="1.9694444444444446in"}
+![](./src/image/image9.png){width="6.5in" height="1.9694444444444446in"}
 
 **Trainer**
 
